@@ -30,10 +30,12 @@ I'm Denul Senila a Software Engineer and Content Creator on [YouTube LK](https:/
 ### My stats ⭐
 
 <div align="center">
-<img alt="Maksym's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=DENUZZ&show_icons=true&theme=transparent"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DENUZZ&layout=compact&&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DENUZZ&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DENUZZ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="145" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DENUZZ&radius=15&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false" height="250" alt="activity-graph graph"  />
 </div>
 
+###
 ### Profile views counter 👁️‍🗨️
 [![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/DENUZZ)
 
