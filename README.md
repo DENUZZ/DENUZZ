@@ -4,10 +4,10 @@ I'm Denul Senila a Software Engineer and Content Creator on [YouTube LK](https:/
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@DENUZZ-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DENUZZ)](https://twitter.com/DENUZZ) 
-[![Mail Badge](https://img.shields.io/badge/-DENUZZ-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@DENUZZ?si=rYeYSkEaREqugOCt) 
-[![Linkedin Badge](https://img.shields.io/badge/-DENUL-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DENUZZ/) 
-[![Mail Badge](https://img.shields.io/badge/-777.denuzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/DENUZZ/) 
+[![Twitter Badge](https://img.shields.io/badge/-@DENUZZ-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com)](https://twitter.com) 
+[![Mail Badge](https://img.shields.io/badge/-DENUZZ-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/@denuzzz?si=rYeYSkEaREqugOCt) 
+[![Linkedin Badge](https://img.shields.io/badge/-DENUL-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/) 
+[![Mail Badge](https://img.shields.io/badge/-777.denuzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/777.denuzz/) 
 [![Mail Badge](https://img.shields.io/badge/-DENUZZ-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saniladenul@gmail.com)
 
 #### Top Technologies
