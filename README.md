@@ -1,6 +1,6 @@
 ### Hi, I'm Denuzz 👋
 
-I'm Denul Senila a Software Engineer and Content Creator on [YouTube LK](https://www.youtube.com/@DENUZZ), [YouTube EN](https://youtube.com/@DENUZZ). Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
+I'm Denul Senila a Software Engineer and Content Creator on [YouTube LK](https://www.youtube.com/@denuzzz), [YouTube EN](https://youtube.com/@denuzzz). Experienced both in Front-end and Back-end technologies. I Spend most of my time coding outstanding projects or recording tutorials.
 
 :mailbox: Reach me out!
 
